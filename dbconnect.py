@@ -53,5 +53,5 @@ pwd_ele.send_keys("mercury")
 driver.find_element_by_name("submit").click()
 
 # new lines for GitDemo
-time.sleep(5)
+time.sleep(2)
 driver.quit()
